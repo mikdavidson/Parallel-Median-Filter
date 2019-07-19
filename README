@@ -1,0 +1,7 @@
+Place the input text file the src folder when running the program.
+To run program:
+	in Assignment1
+	console - "make"
+	move to src folder
+	console - "java MedianFilter sampleinputfile.txt 3 outputfile"
+Output text file printed to src folder 
